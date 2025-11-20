@@ -1,0 +1,39 @@
+# Project Features
+
+## 1. Responsive Design
+- Fully optimized for desktop, tablet, and mobile screens.
+- Uses modern CSS (Flexbox/Grid) for layout adjustments.
+
+## 2. Clean and Modern UI
+- Minimalistic design with smooth spacing and typography.
+- Consistent color palette and visual hierarchy.
+
+## 3. Structured Sections
+- **Home/Hero Section:** Brief introduction and call-to-action.
+- **About Me:** Personal background and goals.
+- **Skills Section:** Technical and soft skills showcased visually.
+- **Projects Section:** Displays completed projects with descriptions.
+- **Contact Section:** Provides email/social contact options.
+
+## 4. Fast Loading & Lightweight
+- Pure HTML and CSS.
+- No heavy frameworks or external dependencies.
+
+## 5. Easy Customization
+- Simple file structure for quick editing.
+- Colors, fonts, images, and text can be changed easily in one place.
+
+## 6. Semantic HTML
+- Proper use of tags (`header`, `section`, `nav`, `footer`, etc.).
+- Improves readability, SEO, and accessibility.
+
+## 7. Cross-Browser Compatibility
+- Works smoothly on Chrome, Edge, Firefox, and Safari.
+
+## 8. Organized Asset Management
+- Dedicated folders for images, styles, and documentation.
+
+## 9. Clear Navigation
+- Smooth scrolling through internal anchors.
+- User-friendly top navigation bar.
+
