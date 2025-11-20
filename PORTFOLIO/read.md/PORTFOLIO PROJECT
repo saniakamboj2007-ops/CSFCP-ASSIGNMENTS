@@ -1,0 +1,25 @@
+Detailed Description :
+
+This project is a personal portfolio website created to display my skills, 
+educational background, and completed projects in a structured and professional manner.
+The website is built using HTML and CSS, with an emphasis on clean design, readability, and smooth navigation.
+
+The portfolio consists of multiple sections:
+
+Hero Section: A brief introduction.
+
+About Me: Details about my background and interests.
+
+Skills: A list of technical and soft skills presented visually.
+
+Projects: Showcases selected works with descriptions .
+
+Contact Section: Provides ways to reach me via email or social platforms.
+
+The design focuses on responsive layout principles, ensuring that the website works seamlessly on
+desktops, tablets, and mobile devices. CSS is used to style elements with modern techniques like 
+Flexbox, Grid, animations, and hover effects.
+
+Overall, this portfolio serves as a digital identity, helping me present my work to
+academic evaluators. It also acts as a foundation that can be expanded later with additional 
+features like JavaScript interactivity, a blog, or backend integration.
